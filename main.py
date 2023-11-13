@@ -11,4 +11,5 @@ idade_amigo = input("Digite a idade do seu melhor amigo: ")
 
 mensagem = "Olá, " + seu_nome + "! Seu melhor amigo tem " + idade_amigo + " anos de idade."
 
+
 print(mensagem)
